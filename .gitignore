@@ -1,0 +1,5 @@
+publick
+.sass-cache
+.jekyll-metadata
+node_modules/
+yarn.lock
